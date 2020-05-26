@@ -1,0 +1,198 @@
+
+.navbar {
+    padding-left: 40px;
+    padding-top: 20px;
+    background-color: white;
+    font-family: "Nunito Sans";
+  
+}
+
+    
+.nav-link:hover {
+    color: #a8cca8!important;
+}
+
+.logo:hover {
+      color: #a8cca8!important;
+}
+
+.nav-link {
+    font-size: 18px;
+}
+
+.nav-item {
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+.form-inline {
+    padding-left: 20px;
+    margin-left: 20px;
+}
+
+.collapse {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+.card-img-hejsan {
+    margin-top: 100px;
+}
+
+
+.btn {
+ background-color: #2b664c;
+}
+
+
+.card-title-namn {
+    font-family: "Ubuntu";
+    font-size: 80px;
+    color: #2b664c;
+    margin-top: 45%;
+
+
+}
+
+.card-text-undertitel {
+    font-size: 20px;
+    font-family: "Nunito Sans";
+    color: #2b664c;   
+}
+
+
+.row {
+  justify-content: center;
+    padding-top: 30px;
+    font-family: "Nunito Sans";
+}
+
+.card-title {
+    margin-top: 10px;
+    padding-top: 20px;
+    font-family: "Nunito Sans";
+    color: black;
+}
+
+.card-text {
+    
+    font-family: "Nunito Sans";   
+    color: black;
+}
+
+#rubrik2, #rubrik3 {
+    margin-top: 140px;
+    color: #2b664c;
+    font-size: 50px;
+    text-align: center;
+    font-family: "Ubuntu";
+}
+
+#side2 {
+    text-align: center;
+    font-family: "Nunito Sans";
+    font-size: 18px;
+    margin-top: 20px; 
+    color: black;
+}
+
+.row2 {
+    font-family: "Nunito Sans";
+    margin-left: 100px;
+}
+
+h3 {
+    
+    font-family: "Nunito Sans";
+    margin-top: 40px;
+    color: black;
+    font-size: 24px;
+}
+
+.form-group {
+    color: black;
+}
+
+#henvendelse {
+    margin-top: 20px;
+    margin-left: -19px;
+    color: black;
+}
+
+.jumbotron {
+    margin-top: 50px;
+    border: 10px solid #a8cca8;
+    background-color: white;
+}
+
+.omoss, .omoss2, .mt-2-finner-du {
+    color: black;
+    font-family: "Nunito Sans";
+    font-size: 18px;
+}
+
+.info {
+    font-family: "Nunito Sans";
+    color: black;
+    font-size: 18px;
+}
+
+.info img {
+    width: 50px;
+}
+
+.col-map {
+    height: 300px;
+   
+    text-align: center;
+}
+
+.container-wheel {
+    margin-top: 140px;
+    color: #2b664c;
+    font-size: 50px;
+   text-align: center;
+    font-family: "Ubuntu";    
+}
+
+
+.icon {
+    color: white;
+    padding: 5px;
+    
+}
+
+.icon:hover {
+    color: #a8cca8;
+} 
+
+.p-folg {
+    font-family: "Nunito Sans";
+    color: white;
+}
+
+.footer-copyright {
+    color: white;
+}
+
+.page-footer {
+    font-family: "Nunito Sans";
+   
+}
+
+@media only screen and (max-width: 600px) { 
+.page-footer { 
+height: 50px; 
+} 
+.footer-copyright{ 
+font-size: 1rem; 
+} 
+}
+
+@media only screen and (max-width: 990px) { 
+.card-title-namn { 
+font-size: 24px; 
+} 
+} 
